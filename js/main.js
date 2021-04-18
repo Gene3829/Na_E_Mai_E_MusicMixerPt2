@@ -8,7 +8,6 @@
 			dragZone = document.querySelector(".sound-icons"),
 			dragImages = document.querySelectorAll(".icon-image"),
 			dropZones = document.querySelectorAll(".drop-zone");
-			keyGraphics = document.querySelectorAll('.key');
 
 	// functions go in the middle
 	function dragStart(event) {
